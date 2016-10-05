@@ -3,7 +3,10 @@
   justify-content: space-between;
 }
 .header__items {
-  
+	display: flex;  
+}
+.header__actions {
+	display: flex;  
 }
 
 .navigation {
