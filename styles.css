@@ -2,10 +2,10 @@
   display: flex;
   justify-content: space-between;
 }
-.header__items {
+.header_items {
 	display: flex;  
 }
-.header__actions {
+.header_actions {
 	display: flex;  
 }
 
@@ -25,7 +25,7 @@
   justify-content: space-around;
 }
 
-.nav_item {
+.nav_items__item {
   justify-content: center;
   margin: 0;
   padding: 0;
